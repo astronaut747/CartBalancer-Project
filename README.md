@@ -9,7 +9,7 @@ This academic project explores advanced control algorithms to stabilize an inver
 - MATLAB simulations demonstrating practical applications.
 
 ## Access Project Files
-For detailed project documentation, MATLAB code, and simulation results, access the files [here]([(https://drive.google.com/drive/folders/1SwxlXE1sDzFSeL_K7ZeinkFu7vyBGoHU?usp=drive_link)]).
+For detailed project documentation, MATLAB code, and simulation results, access the files [here](https://drive.google.com/drive/folders/1SwxlXE1sDzFSeL_K7ZeinkFu7vyBGoHU?usp=drive_link).
 
 ## Setup and Installation
 - Ensure MATLAB is installed on your system.
