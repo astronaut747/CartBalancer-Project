@@ -1,27 +1,18 @@
 # CartBalancer: Robust Inverted Pendulum Stabilization
 
 ## Project Overview
-This project focuses on stabilizing an inverted pendulum on a cart using two advanced control methods: H∞ and LQR controllers. The goal is to maintain stability amid model uncertainties, sensor noise, and external disturbances.
-
-## Technologies Used
-- MATLAB
+This academic project explores advanced control algorithms to stabilize an inverted pendulum on a moving cart. It compares the efficacy of H∞ and LQR controllers under varying conditions of noise and disturbances.
 
 ## Features
-- Implementation of H∞ and LQR control algorithms.
-- Analysis of system performance under various noise levels and disturbances.
-- Evaluation of controller efficiency and system response time.
+- Implementation and comparison of H∞ and LQR control strategies.
+- Detailed analysis of controller response to environmental uncertainties.
+- MATLAB simulations demonstrating practical applications.
 
-## Getting Started
-To run this project, MATLAB is required. Load the provided scripts to analyze the controller performance and system dynamics.
+## Access Project Files
+For detailed project documentation, MATLAB code, and simulation results, access the files [here]([(https://drive.google.com/drive/folders/1SwxlXE1sDzFSeL_K7ZeinkFu7vyBGoHU?usp=drive_link)]).
 
-## Controllers
-- **H∞ Controller**: Optimizes robustness against disturbances.
-- **LQR Controller**: Focuses on minimizing a cost function balancing state regulation and control effort.
-
-## Results
-The project demonstrates successful stabilization with detailed comparisons of the two controllers’ performance, emphasizing the trade-offs between robustness and efficiency.
-
-## Authors
-- Sameer Swain
-- Sahith Babireddy
+## Setup and Installation
+- Ensure MATLAB is installed on your system.
+- Download the project files from the above link.
+- Open the scripts in MATLAB to run simulations and analyze the system's response.
 
